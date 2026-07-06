@@ -52,7 +52,7 @@ export const Sidebar = ({ isOpen = false, onClose = () => {} }) => {
 
         <aside className={`fixed left-0 top-0 bottom-0 w-64 bg-emerald-800 text-white transform transition-transform ${isOpen ? 'translate-x-0' : '-translate-x-full'}`}>
           <div className="p-6 border-b border-emerald-700">
-            <h1 className="text-2xl font-bold">AgroConecta</h1>
+            <h1 className="text-2xl font-bold">Agriterra</h1>
             <p className="text-emerald-100 text-xs mt-1">Dashboard Interno</p>
           </div>
           <nav className="mt-6 space-y-2 px-4">
