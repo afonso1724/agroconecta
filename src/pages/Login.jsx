@@ -35,7 +35,7 @@ export const Login = () => {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-2 mb-4">
             <FiFeather className="text-4xl text-white" />
-            <h1 className="text-4xl font-bold text-white">Agroterra</h1>
+            <h1 className="text-4xl font-bold text-white">Agriterra</h1>
           </div>
           <p className="text-emerald-100">Dashboard de Gestão Agrícola</p>
         </div>
