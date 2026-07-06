@@ -12,7 +12,7 @@ export const Dashboard = () => {
 
   useEffect(() => {
     setTitle('Dashboard');
-    setSubtitle('Visão geral do sistema AgroConecta');
+    setSubtitle('Visão geral do sistema Agriterra');
   }, [setTitle, setSubtitle]);
 
   useEffect(() => {
