@@ -18,7 +18,7 @@ export const Sidebar = ({ isOpen = false, onClose = () => {} }) => {
       {/* Desktop sidebar */}
       <aside className="hidden md:flex md:flex-col md:fixed md:inset-y-0 md:left-0 w-64 bg-emerald-800 text-white shadow-lg z-20">
         <div className="p-6">
-          <h1 className="text-2xl font-bold">AgroConecta</h1>
+          <h1 className="text-2xl font-bold">Agroterra</h1>
           <p className="text-emerald-100 text-xs mt-1">Dashboard Interno</p>
         </div>
 
